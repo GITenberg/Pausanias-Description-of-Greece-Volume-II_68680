@@ -1,0 +1,35 @@
+_repo: Pausanias-Description-of-Greece-Volume-II_68680
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Shilleto, A. R. (Arthur Richard)
+    alias: Shilleto, Arthur Richard
+    birthdate: 1848
+    deathdate: 1894
+    gutenberg_agent_id: '25957'
+    url: http://www.gutenberg.org/2009/agents/25957
+creator:
+  author:
+    agent_name: Pausânias
+    gutenberg_agent_id: '54901'
+    url: http://www.gutenberg.org/2009/agents/54901
+description: ''
+gutenberg_issued: '2022-08-04'
+identifiers:
+  gutenberg: '68680'
+language: en
+pgterms:marc904: https://archive.org/details/pausaniasdescrip01pausuoft   https://archive.org/details/pausaniasdescrip02pausuoft
+pgterms:marc905: 20190916163018pausnias
+pgterms:marc906: '1886'
+pgterms:marc907: UK
+production_note: Turgut Dincer, SF2001, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: UK :George Bell and Sons,1886.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pausanias' Description of Greece, Volume II.
+url: http://www.gutenberg.org/ebooks/68680
